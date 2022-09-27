@@ -1,6 +1,5 @@
-## Ted Staros: Tennis Player, Skier, adventurer
+## Ted Staros: Tennis Player, Skier, Adventurer
 
-```
 
 [![Linkedin: tstaros23](https://img.shields.io/badge/-tstaros23-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tstaros23/)](https://www.linkedin.com/in/tstaros23/)
 [![GitHub tstaros23](https://img.shields.io/github/followers/tstaros23?label=follow&style=social)](https://github.com/tstaros23 )
