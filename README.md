@@ -1,16 +1,13 @@
-### Hi there 👋
+## Ted Staros: Tennis Player, Skier, adventurer
 
-<!--
-**tstaros23/tstaros23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
 
-Here are some ideas to get you started:
+[![Linkedin: tstaros23](https://img.shields.io/badge/-tstaros23-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tstaros23/)](https://www.linkedin.com/in/tstaros23/)
+[![GitHub tstaros23](https://img.shields.io/github/followers/tstaros23?label=follow&style=social)](https://github.com/tstaros23 )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cool Stats
+
+(provided by [anuraghazra](https://github.com/anuraghazra/github-readme-stats))
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tstaros23&show_icons=true&theme=nord&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tstaros23&layout=compact" />
